@@ -13,7 +13,7 @@ body {
     font-size: 30px;
     position: absolute;
     left: 0;
-    user-select:none
+    user-select: none;
 }
 #vline{
     color: white;
@@ -21,7 +21,7 @@ body {
     position: absolute;
     left: 0;
     transform: rotate(90deg);
-    user-select:none
+    user-select: none;
 }
 #btn {
     width: 200px;
